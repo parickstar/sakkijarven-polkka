@@ -1,7 +1,1 @@
-{
-	"users": [
-	"tin_ed",
-	"Khxyri",
-	"Danhypers"
-	]
-}
+Im so cool
