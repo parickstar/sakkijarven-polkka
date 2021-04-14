@@ -1,5 +1,4 @@
-{"users": {"tin_ed": {"user": "tin_ed", "discordid": 234409962313351171}},
-          {"Hyri": {"user": "Hyri", "discordid": 729852983810195507}}
+{"users": {"tin_ed": {"user": "tin_ed", "discordid": 234409962313351171}}, {"Hyri": {"user": "Hyri", "discordid": 729852983810195507}}
 
 
 
